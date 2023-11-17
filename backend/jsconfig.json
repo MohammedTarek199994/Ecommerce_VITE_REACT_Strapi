@@ -1,0 +1,17 @@
+// {
+//   "compilerOptions": {
+//     "moduleResolution": "nodenext",
+//     "target": "ES2021",
+//     "checkJs": true,
+//     "allowJs": true
+//   }
+// }
+{
+  "compilerOptions": {
+    "module": "esnext", // Modify this line with the desired module system
+    "moduleResolution": "node",
+    "target": "ES2021",
+    "checkJs": true,
+    "allowJs": true
+  }
+}
