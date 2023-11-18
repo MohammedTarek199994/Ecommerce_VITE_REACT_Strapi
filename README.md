@@ -2,6 +2,14 @@
 
 This project is an eCommerce web application developed using Vite, React, and Material-UI. It aims to offer a smooth user experience for browsing products, adding them to the cart, and facilitating the checkout process.
 
+## Hero Section 👨‍💻
+
+![Hero Section](screenshots/1.png?raw=true)
+
+## Product Page 👨‍💻 ::
+
+![Product Page](screenshots/2.png?raw=true)
+
 ## ⭐ Features
 
 - Browse a catalog of products
