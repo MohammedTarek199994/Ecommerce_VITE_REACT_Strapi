@@ -4,11 +4,11 @@ This project is an eCommerce web application developed using Vite, React, and Ma
 
 ## Hero Section 👨‍💻
 
-![Hero Section](screenshots/1.png?raw=true)
+![Hero Section](frontend/screenshots/1.png?raw=true)
 
 ## Product Page 👨‍💻 ::
 
-![Product Page](screenshots/2.png?raw=true)
+![Product Page](frontend/screenshots/2.png?raw=true)
 
 ## ⭐ Features
 
